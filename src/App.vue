@@ -1,8 +1,8 @@
 <template>
   <v-app>
     <v-app-bar color="primary"  dark>
-
-      <v-toolbar-title>ChopCast</v-toolbar-title>
+      
+      <v-toolbar-title>ChopCast
 
     </v-app-bar>
     <router-view />
