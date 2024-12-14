@@ -1,11 +1,9 @@
 <template>
   <v-app>
-    <v-app-bar color="primary"  dark>
-
-      <v-toolbar-title>ChopCast</v-toolbar-title>
-
+    <v-app-bar color="secondary"  dark>
+      <v-toolbar-title>Bot Agent</v-toolbar-title>
     </v-app-bar>
-    <router-view />
+
   </v-app>
 </template>
 
