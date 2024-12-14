@@ -5,7 +5,7 @@
       <v-toolbar-title>ChopCast</v-toolbar-title>
 
     </v-app-bar>
-    <router-view />
+
   </v-app>
 </template>
 
